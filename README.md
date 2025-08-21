@@ -3,7 +3,7 @@
 A comprehensive, interactive CLI tool for managing a full-stack local development environment on Ubuntu/Debian systems. This script automates project scaffolding, service management, virtual hosts, databases, and more.
 
 ---
-### serverL v2 ###
+### Script File : serverLv2.sh ###
 
 ## 🚨 **WARNING**
 
