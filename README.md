@@ -26,7 +26,7 @@ A comprehensive, interactive CLI tool for managing a full-stack local developmen
 ## 📋 **Features**
 
 - **Dashboard-first** interactive CLI with menus
-- **Project scaffolding**: Laravel, WordPress, PHP, Node.js, React, Vue, Svelte, SolidJS, .NET, static sites, Bootstrap5+jQuery
+-### **Project scaffolding**: Laravel, WordPress, PHP, Node.js, React, Vue, Svelte, SolidJS, .NET, static sites, Bootstrap5+jQuery ###
 - **Web servers**: Apache & Nginx virtual hosts automation
 - **SSL**: mkcert (preferred) or OpenSSL self-signed certificates
 - **PHP management**: Version detection & switching
@@ -45,7 +45,7 @@ A comprehensive, interactive CLI tool for managing a full-stack local developmen
 
 ```bash
 # Download the script
-wget https://your-domain.com/serverL.sh
+wget https://github.com/amin670bd/serverL/blob/main/serverLv2.sh
 
 # Git Clone
 git clone https://github.com/amin670bd/serverL.git
