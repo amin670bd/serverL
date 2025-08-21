@@ -1,8 +1,9 @@
-# serverL.sh - Ultimate Local Development Environment Manager
+# serverL.sh - Ultimate Local Development Environment Manager for Ubuntu/Dabian/linux
 
 A comprehensive, interactive CLI tool for managing a full-stack local development environment on Ubuntu/Debian systems. This script automates project scaffolding, service management, virtual hosts, databases, and more.
 
 ---
+### serverL v2 ###
 
 ## 🚨 **WARNING**
 
@@ -45,6 +46,9 @@ A comprehensive, interactive CLI tool for managing a full-stack local developmen
 ```bash
 # Download the script
 wget https://your-domain.com/serverL.sh
+
+# Git Clone
+git clone https://github.com/amin670bd/serverL.git
 
 # Make executable
 chmod +x serverL.sh
